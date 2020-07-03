@@ -1,7 +1,7 @@
 # Profile
 Resume
 
-                                                                       POOJITHA KALE
+                                                                      POOJITHA KALE
 
 San Francisco, CA | Phone: (814) 325-1429 | Email: poojithakale@gmail.com | LinkedIn: https://www.linkedin.com/in/poojithakale/ | GitHub: https://github.com/PoojithaKale
 ___________________________________________________________________________________________________________________________________________________________________________
@@ -32,5 +32,6 @@ GRADUATE RESEARCH ASSOCIATE - PENN STATE                                        
 • Develop a classifier based on features extracted from two signal processing techniques - STFT and Wavelet transform – to achieve a prediction accuracy of 85.7% for STFT and 80% for the wavelet transform
 
 EDUCATION
+
 M.S. IN ELECTRICAL ENGINEERING, THE PENNSYLVANIA STATE UNIVERSITY                                                                                                        MAY 2019
 B.E. IN ELECTRONICS AND COMMUNICATION ENGINEERING, ANNA UNIVERSITY                                                                                                       MAY 2016
